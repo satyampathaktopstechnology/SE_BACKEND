@@ -7,7 +7,7 @@ int main() {
 
     for (i = 1; i <= 10; i++) {
         if (i == 3) {
-            continue;  
+            continue;  // it will skip numer 3 and continue furture execuation
         }
 
         if (i == 5) {

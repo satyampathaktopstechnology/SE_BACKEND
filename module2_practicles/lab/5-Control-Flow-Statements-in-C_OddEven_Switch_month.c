@@ -21,6 +21,7 @@ main(){
 			printf("Number %d is odd", num1);
 		}
 	}
+	//from user input the switch will trigger specific case btw 1 to 12.
 	switch(num1){
 		case 1:
 			printf("\nJanuary");
